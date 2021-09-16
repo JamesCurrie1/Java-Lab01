@@ -2,7 +2,7 @@ public class TaylorSeries {
     private int numIterations;
     public TaylorSeries(){
     }
-    // YOUR CODE GOES HERE
+    // TEsT
     public static int approximateExp(int x, int numIterations){
         factorial(numIterations);
         return 2;
